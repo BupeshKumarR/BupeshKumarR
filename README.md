@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ Data Scientist &amp; ML Engineer at <b>UGI Corporation</b>, building production AI and data-science solutions on AWS (Bedrock, SageMaker, Lambda).<br>
   🎓 MS in Data Science from <b>Northeastern University</b>.<br>
-  🏅 <b>AWS Community Builder</b> (AI Engineering) &amp; AWS Certified AI Practitioner.<br>
+  🏅 <b>AWS Community Builder</b> (AI Engineering) &amp; 2x AWS Certified.<br>
   🔭 I work across applied computer vision, multi-agent LLM systems &amp; LLM evaluation, physics-informed neural networks, and serverless ML.
 </p>
 
