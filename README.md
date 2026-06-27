@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Bupesh, and I'm a Data Scientist &amp; ML Engineer/h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Bupesh, and I'm a Data Scientist &amp; ML Engineer </h2>
 
 ###
 
